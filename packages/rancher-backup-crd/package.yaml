@@ -1,0 +1,3 @@
+url: https://github.com/rancher/backup-restore-operator/releases/download/v1.0.3/rancher-backup-crd-1.0.3.tgz
+packageVersion: 01
+releaseCandidateVersion: 02
